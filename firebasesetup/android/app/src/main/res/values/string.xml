@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firebasesetup</string>
+    <string name="facebook_app_id">1124261162060142</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">423261cf55d2f62407925ce3df0b4b1c</string>
+</resources>
